@@ -1,0 +1,21 @@
+#player1{
+    color: blue;
+    font-weight: 600;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+#pc{
+    color: green;
+    font-weight: 600;
+    text-align: center;
+    font-size: 40px;
+}
+
+#risultato{
+    color: red;
+    font-weight: 600;
+    text-align: center;
+    font-size: 40px;
+}
